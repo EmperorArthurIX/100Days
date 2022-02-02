@@ -1,4 +1,4 @@
-def binarySearch(key, arr):
+def jumpSearch(key, arr):
     """
     Searches for the key value in the given sorted sequence
     
@@ -10,11 +10,11 @@ def binarySearch(key, arr):
     - Raises:
         LookupError() when element is not found
     - Time:
-        O(log2(n))
+        O(sqrt(n))
     - Space:
         O(1)
     """
-    # Security Checks
+     # Security Checks
     if arr is None:
         raise TypeError("Passed None where Iterable was expected")
     if len(arr) == 0:
@@ -22,7 +22,7 @@ def binarySearch(key, arr):
     if type(key) is not type(arr[0]):
         raise TypeError("Tried to search for {} in list of {}".format(type(key), type(arr[0])))
     
-    # Optimisation, to finish trivial searches in Constant Time and Space
+    # Optimisation, to finish trivial search in Constant Time and Space
     if len(arr) <= 2:
         if key is arr[0]:
             return 0
@@ -31,38 +31,32 @@ def binarySearch(key, arr):
         raise LookupError("Element not found in iterable")
     
     # Main Search
-    hi = len(arr)-1
-    lo = 0
-    while lo <= hi:
-        mid = lo + (hi-lo) // 2
-        if key is arr[hi]:  # Check rightmost
-            return hi
-        if key is arr[lo]:  # Check leftmost
-            return lo
-        if key is arr[mid]: # Check middle
-            return mid
-        if key < arr[mid]:  # Optimisation - Update both hi and lo, to save iteration time
-            hi = mid-1
-            lo += 1
-        elif key > arr[mid]:    # Optimisation -  Update both hi and lo, to save iteration time
-            lo = mid+1
-            hi -= 1
-        print(1)
-    raise LookupError("Element not found in iterable")
-    
+    step = int(len(arr)**.5)
+    for i in range(0, len(arr), step):
+        if key is arr[i]:
+            return i
+        if key < arr[i]:
+            j = i
+            while j > i-step:   # Occurs only once - Added time, not multiplied
+                if key is arr[j]:
+                    return j
+                j -= 1
+            raise LookupError("Element not found in iterable")  # Checks for missing values larger than elements
+    raise LookupError("Element not found in iterable")  # Checks for missing values smaller than elements
+
 
 # Test
 if __name__ == "__main__":
-    arr = [1,2,3,4,5,6,7,8,9]
+    arr = [-1,0,1,2,3,4,5,6,7,8,9]
     try:
-        print(binarySearch(5, arr))
+        print(jumpSearch(10, arr))
     except Exception as exp:
         print(exp.args[0])
     try:
-        print(binarySearch(4, arr))
+        print(jumpSearch(-1, arr))
     except Exception as exp:
         print(exp.args[0])
     try:
-        print(binarySearch(3, arr))
+        print(jumpSearch(3, arr))
     except Exception as exp:
         print(exp.args[0])
