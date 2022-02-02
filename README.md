@@ -14,6 +14,8 @@ My aim is to understand algorithms in Python, which I plan to make my primary de
 Updated as and when used
 
 [![GeeksForGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/)
+[![Scaler Topics](https://d1g0iq4cbcvjcd.cloudfront.net/topics/images/logo.svg)](https://www.scaler.com/topics/data-structures/)
+
 
 ---
 ## Timeline
@@ -34,5 +36,17 @@ February 1, 2022
     <li>Installed Python 3.9.10</li>
     <li>Linear Search</li>
     <li>Binary Search</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 2 </summary>
+February 2, 2022
+<ul>
+    <li>Jump Search</li>
+    <li>Interpolation Search</li>
+    <li>Updated Linear Search</li>
+    <li>Updated Binary Search</li>
+    <li>Updated Exception Handling</li>
 </ul>
 </details>
