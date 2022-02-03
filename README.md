@@ -50,3 +50,15 @@ February 2, 2022
     <li>Updated Exception Handling</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 3 </summary>
+February 3, 2022
+<ul>
+    <li>Exponential Search</li>
+    <li>Improved Docstrings for all algorithms</li>
+    <li>Removed 'TypeError' while searching, since searching can be done for mixed list as well</li>
+    <li>Added Folder for Sorting Algorithms</li>
+    <li>Selection Sort</li>
+</ul>
+</details>
