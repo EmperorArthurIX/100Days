@@ -5,8 +5,8 @@ def interpolationSearch(key, arr):
     Works best when sequence contains uniformly distributed data
     
     - Parameters:
-        key: Value to be searched
-        arr: Iterable in which 'key' is to be searched
+        - key: Value to be searched
+        - arr: Iterable in which 'key' is to be searched
     - Returns:
         0-based index of 'key', if found
     - Raises:
