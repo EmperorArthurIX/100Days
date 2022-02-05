@@ -74,3 +74,14 @@ February 4, 2022
     <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 5 </summary>
+February 5, 2022
+<ul>
+    <li>Tried debugging previous code</li>
+    <li>Made progress with API fetch</li>
+    <li>Ran into input and output bugs</li>
+    <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
+</ul>
+</details>
