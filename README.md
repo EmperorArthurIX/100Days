@@ -62,3 +62,15 @@ February 3, 2022
     <li>Selection Sort</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 4 </summary>
+February 4, 2022
+<ul>
+    <li>JavaScript Basics</li>
+    <li>Quiz APIs</li>
+    <li>Animated Backgrounds in CSS</li>
+    <li>Script tag in HTML</li>
+    <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
+</ul>
+</details>
