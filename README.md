@@ -85,3 +85,12 @@ February 5, 2022
     <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 6 </summary>
+February 6, 2022
+<ul>
+    <li>Submitted the project on DevPost <a href='https://devpost.com/software/train-your-brain-fpt9cv'>here</a></li>
+    <li>See the project <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
+</ul>
+</details>
