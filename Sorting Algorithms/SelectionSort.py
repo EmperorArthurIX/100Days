@@ -9,7 +9,8 @@ def selectSort(arr):
         - Sorted sequence: Passed iterable is sorted in place, but also returns a sorted array
         - Unsorted sequence: If exception occurs during sorting
     - Time:
-        O(n^2)
+        - O(n^2)
+        - Not adaptive
     - Space:
         O(1)
     - Swaps:
