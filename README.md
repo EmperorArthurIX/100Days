@@ -13,8 +13,10 @@ My aim is to understand algorithms in Python, which I plan to make my primary de
 ## References
 Updated as and when used
 
-[![GeeksForGeeks](https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg)](https://www.geeksforgeeks.org/)
-[![Scaler Topics](https://d1g0iq4cbcvjcd.cloudfront.net/topics/images/logo.svg)](https://www.scaler.com/topics/data-structures/)
+<a href="https://www.geeksforgeeks.org/"><img src = "https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height=50 style="margin: 1.25%"></a>
+<a href="https://www.scaler.com/topics/data-structures/"><img src = "https://d1g0iq4cbcvjcd.cloudfront.net/topics/images/logo.svg" height=50 style="margin: 1.25%"></a>
+<a href="https://www.toptal.com/developers/sorting-algorithms"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toptal-Logo-Main-Colors_RGB.png/800px-Toptal-Logo-Main-Colors_RGB.png" height=50 style="margin: 1.25%"></a>
+<a href="https://medium.com/coding-at-dawn/sorts-in-60-seconds-speedy-javascript-interview-answers-on-sorting-acb72bdea8a2#:~:text=Quick3%20is%20the%20preferred%20version,sorting%20with%20few%20unique%20keys."><img src = "https://upload.wikimedia.org/wikipedia/en/6/67/Medium_logo_%282020%29.png" height=50 style="margin: 1.25%"></a>
 
 
 ---
@@ -71,7 +73,7 @@ February 4, 2022
     <li>Quiz APIs</li>
     <li>Animated Backgrounds in CSS</li>
     <li>Script tag in HTML</li>
-    <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
+    <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">her style="margin:auto"e</a></li>
 </ul>
 </details>
 
@@ -82,7 +84,7 @@ February 5, 2022
     <li>Tried debugging previous code</li>
     <li>Made progress with API fetch</li>
     <li>Ran into input and output bugs</li>
-    <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
+    <li>Contributed <a href="https://github.com/EmperorArthurIX/TrainYourBrain">her style="margin:auto"e</a></li>
 </ul>
 </details>
 
@@ -90,7 +92,19 @@ February 5, 2022
 <summary> Day 6 </summary>
 February 6, 2022
 <ul>
-    <li>Submitted the project on DevPost <a href='https://devpost.com/software/train-your-brain-fpt9cv'>here</a></li>
-    <li>See the project <a href="https://github.com/EmperorArthurIX/TrainYourBrain">here</a></li>
+    <li>Submitted the project on DevPost <a href='https://devpost.com/software/train-your-brain-fpt9cv'>her style="margin:auto"e</a></li>
+    <li>See the project <a href="https://github.com/EmperorArthurIX/TrainYourBrain">her style="margin:auto"e</a></li>
+</ul>
+</details>
+
+<details>
+<summary> Day 7 </summary>
+February 7, 2022
+<ul>
+    <li>Iterative Bubble Sort</li>
+    <li>Iterative Insertion Sort</li>
+    <li>Recursive Merge Sort</li>
+    <li>Updated Selection Sort Description</li>
+    <li>Learnt 'Adaptive' feature of sorting algorithms</li>
 </ul>
 </details>
