@@ -108,3 +108,12 @@ February 7, 2022
     <li>Learnt 'Adaptive' feature of sorting algorithms</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 8 </summary>
+February 8, 2022
+<ul>
+    <li>Recursive Quick Sort</li>
+    <li>Tried Iterative versions of algorithms but failed</li>
+</ul>
+</details>
