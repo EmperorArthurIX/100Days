@@ -6,7 +6,7 @@ def mergeSort(arr):
         - arr: Iterable in which is to be sorted
     - Returns:
         - None: If 'arr' is None or Empty
-        - Sorted sequence: Passed iterable is sorted in place, but also returns a sorted array
+        - Sorted sequence: Passed iterable is sorted by reference, but also returns a sorted array
         - Unsorted sequence: If exception occurs during sorting
     - Time:
         - O(n.log2(n)) - log base 2 since divided into half. Can make log base k for k parts

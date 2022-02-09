@@ -7,7 +7,7 @@ def quickSort(arr, indL, indR):
         - indL: Index of left-most element
         - indR: Index of right-most element
     - Returns:
-        - Sorted sequence: Passed iterable is sorted in place, but also returns a sorted array
+        - Sorted sequence: Passed iterable is sorted by reference, but also returns a sorted array
         - Unsorted sequence: If exception occurs during sorting
     - Time:
         - O(n.log2(n)) - Average
