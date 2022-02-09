@@ -1,9 +1,6 @@
-from asyncio.constants import ACCEPT_RETRY_DELAY
-
-
 def bucketSort(arr):
     """
-    Sorts the given sequence of non-negative integers
+    Sorts the given sequence of non-negative floating point numbers
     
     - Parameters:
         - arr: Iterable in which is to be sorted
@@ -12,16 +9,17 @@ def bucketSort(arr):
         - Sorted sequence: Passed iterable is sorted by reference, but also returns a sorted array
         - Unsorted sequence: If exception occurs during sorting
     - Time:
-        - O(p.n)
-            - p is the number of passes = number of digits of largest element
-    - Space:
-        O(n+k)
-            - k is the maximum number of elements with common digit at same place value
+        - O(n + k)
+            - For traversal of array of length n, followed by sorted insertion among k elements
             - 0 <= k <= n
+    - Space:
+        O(n)
+            - k is the maximum number of elements in the same bucket
+            - 0 <= k <= (n/bucket_width)
     - Stability:
         Stable
     - Use case:
-        - Counting sort, but with less space
+        - Counting Sort, but for floating point numbers
     """
     # Security Checks
     if arr is None:
