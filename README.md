@@ -129,3 +129,13 @@ February 9, 2022
     <li>Bucket Sort</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 10 </summary>
+February 10, 2022
+<ul>
+    <li>Researched Big Data</li>
+    <li>Researched DevOps</li>
+    <li>Worked on my blog for the week</li>
+</ul>
+</details>
