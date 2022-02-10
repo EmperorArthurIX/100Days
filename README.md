@@ -137,5 +137,6 @@ February 10, 2022
     <li>Researched Big Data</li>
     <li>Researched DevOps</li>
     <li>Worked on <a href="https://www.medium.com/@emperorarthurix">my blog</a> for the week</li>
+    <li>Contributed to a school project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
 </ul>
 </details>
