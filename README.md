@@ -140,3 +140,12 @@ February 10, 2022
     <li>Contributed to a school project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 11 </summary>
+February 11, 2022
+<ul>
+    <li>Heap Sort</li>
+    <li>Started implementing Binary Search Tree</li>
+</ul>
+</details>
