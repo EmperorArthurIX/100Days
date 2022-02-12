@@ -149,3 +149,11 @@ February 11, 2022
     <li>Started implementing Binary Search Tree</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 12 </summary>
+February 12, 2022
+<ul>
+    <li>Completed implementing Binary Search Tree</li>
+</ul>
+</details>
