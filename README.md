@@ -157,3 +157,16 @@ February 12, 2022
     <li>Completed implementing Binary Search Tree</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 13 </summary>
+February 13, 2022
+<ul>
+    <li>Added `delete()` function to the BST</li>
+    <li>Added `preOrder()` function to the BST</li>
+    <li>Added `getMin()` function to the BST</li>
+    <li>Added `isLeaf()` function to the BST</li>
+    <li>Updated docstrings all over the BST</li>
+    <li>Updated Time Complexity analyses for all functions in the BST</li>
+</ul>
+</details>
