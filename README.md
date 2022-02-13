@@ -18,6 +18,7 @@ Updated as and when used
 <a href="https://www.toptal.com/developers/sorting-algorithms"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Toptal-Logo-Main-Colors_RGB.png/800px-Toptal-Logo-Main-Colors_RGB.png" height=50 style="margin: 1.25%"></a>
 <a href="https://medium.com/coding-at-dawn/sorts-in-60-seconds-speedy-javascript-interview-answers-on-sorting-acb72bdea8a2#:~:text=Quick3%20is%20the%20preferred%20version,sorting%20with%20few%20unique%20keys."><img src = "https://upload.wikimedia.org/wikipedia/en/6/67/Medium_logo_%282020%29.png" height=50 style="margin: 1.25%"></a>
 <a href="https://stackoverflow.com/questions/2572195/how-is-counting-sort-a-stable-sort#:~:text=the%20counts%20array%3A-,counts%20array,-%3A%20%5B0%2C%202%2C%202"><img src = "https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height=70 style="margin: 1.25%"></a>
+<a href="https://www.techiedelight.com/deletion-from-bst/"><img src = "https://www.techiedelight.com/wp-content/uploads/profile_pic.png" height=70 style="margin: 1.25%"></a>
 
 
 ---
@@ -168,5 +169,8 @@ February 13, 2022
     <li>Added `isLeaf()` function to the BST</li>
     <li>Updated docstrings all over the BST</li>
     <li>Updated Time Complexity analyses for all functions in the BST</li>
+    <li>Learnt about the different kinds of trees</li>
+    <li>Learnt about the Enumeration of K-ary trees</li>
+    <li>Studied the Handshake Lemma property of K-ary trees</li>
 </ul>
 </details>
