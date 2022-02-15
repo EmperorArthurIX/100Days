@@ -186,3 +186,13 @@ February 14, 2022
     <li>Integrated Grid and Flex displays to show the table</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 14 </summary>
+February 14, 2022
+<ul>
+    <li>Attempted to implement Linked List</li>
+    <li>Added search() function to Binary Search Tree</li>
+    <li>Updated doctrings of Binary Search Tree to include space complexities</li>
+</ul>
+</details>
