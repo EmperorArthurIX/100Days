@@ -50,11 +50,27 @@ class LinkedList():
             self.size = 1
     
     def insert(self, data, index = -1):
+        """
+        Inserts given data at specific index
+
+        - Parameters:
+            - data: The value to be inserted
+            - index(optional): The 0-based index where it has to be inserted
+                - 0: inserts in the first place
+                - -1 or size of list: appends
+        
+        - Time:
+            - O(1) - Head or tail of list
+            - O(index) - Other specific index
+
+        - Space:
+            O(1)
+        """
         if index < -1 or index > self.size:
             raise IndexError("Index value must be an integer between -1 and size of list")
         
         if self.head:
-            if self.size == 1 and index == 0 or index == -1:
+            if self.size == 1 and index == 0:
                 self.tail == Node(self.head.data)
                 self.head.next = self.tail
                 self.tail.prev = self.head
@@ -102,6 +118,18 @@ class LinkedList():
         self.size += 1
     
     def appendAll(self, arr):
+        """
+        Extends the list with all elements in given data
+
+        - Parameters:
+            - data: The sequence of values to be inserted
+        
+        - Time:
+            - O(k) - k is the number of values to be inserted
+
+        - Space:
+            O(1)
+        """
         if type(arr) not in [type(list()), type(tuple())]:
             raise TypeError("A list or tuple of elements must be passed.")
         if len(arr) == 0:
@@ -116,9 +144,36 @@ class LinkedList():
                 return
     
     def append(self, data):
+        """
+        Appends given data at end of list
+
+        - Parameters:
+            - data: The value to be appended
+        
+        - Time:
+            - O(1)
+
+        - Space:
+            O(1)
+        """
         self.insert(data)
     
     def pop(self, index=-1):
+        """
+        Returns and removes the value at the 0-based index node
+
+        - Parameters:
+            - index(optional): The 0-based index where it has to be inserted
+                - 0: returns the element at head
+                - -1 or size of list: returns the last element
+        
+        - Time:
+            - O(1) - Head or tail of list
+            - O(index) - Other specific index
+
+        - Space:
+            O(1)
+        """
         if index <= -1 or index > self.size - 1:
             raise IndexError("Index value must be an integer greater than or equal to -1 and less than size of list")
         if self:
@@ -164,6 +219,15 @@ class LinkedList():
         raise LookupError("Node object not found")
     
     def display(self):
+        """
+        Displays contents of the list
+        
+        - Time:
+            O(n)
+
+        - Space:
+            O(1)
+        """
         curr = self.head
         for i in range(self.size):
             print(curr.data, end="\t")
@@ -171,6 +235,15 @@ class LinkedList():
         print()
     
     def toList(self):
+        """
+        Returns a Python List of the contents of the Linked List
+        
+        - Time:
+            O(n)
+
+        - Space:
+            O(1)
+        """
         curr = self.head
         arr = list()
         for i in range(self.size):
@@ -181,7 +254,7 @@ class LinkedList():
 
 # Test
 if __name__ == "__main__":
-    # ll = LinkedList([1,2,3,4,5,5,4,3,2,1])
-    ll = LinkedList(1)
-    ll.insert(2,0)
+    ll = LinkedList([1,2,3,4,5,5,4,3,2,1])
+    # ll = LinkedList(1)
+    ll.insert(2)
     ll.display()

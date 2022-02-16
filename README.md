@@ -188,11 +188,20 @@ February 14, 2022
 </details>
 
 <details>
-<summary> Day 14 </summary>
-February 14, 2022
+<summary> Day 15 </summary>
+February 15, 2022
 <ul>
     <li>Attempted to implement Linked List</li>
     <li>Added search() function to Binary Search Tree</li>
     <li>Updated doctrings of Binary Search Tree to include space complexities</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 16 </summary>
+February 16, 2022
+<ul>
+    <li>Repaired Linked List</li>
+    <li>Updated Linked List docstrings</li>
 </ul>
 </details>
