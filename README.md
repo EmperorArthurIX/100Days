@@ -205,3 +205,12 @@ February 16, 2022
     <li>Updated Linked List docstrings</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 17 </summary>
+February 17, 2022
+<ul>
+    <li>Refactored folder names</li>
+    <li>Started implementing Graph Data Structure</li>
+</ul>
+</details>
