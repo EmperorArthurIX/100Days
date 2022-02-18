@@ -214,3 +214,12 @@ February 17, 2022
     <li>Started implementing Graph Data Structure</li>
 </ul>
 </details>
+
+<summary> Day 18 </summary>
+February 18, 2022
+<ul>
+    <li>Attempted a problem on LeetCode</li>
+    <li>Solved Brute force, learnt Best Solution online</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
