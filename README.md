@@ -215,6 +215,7 @@ February 17, 2022
 </ul>
 </details>
 
+<details>
 <summary> Day 18 </summary>
 February 18, 2022
 <ul>
