@@ -224,3 +224,14 @@ February 18, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 19 </summary>
+February 19, 2022
+<ul>
+    <li>Solved a problem on LeetCode</li>
+    <li>Solved the best solution on own</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+    <li>Worked upon semester project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
+</ul>
+</details>
