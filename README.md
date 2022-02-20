@@ -20,6 +20,7 @@ Updated as and when used
 <a href="https://stackoverflow.com/questions/2572195/how-is-counting-sort-a-stable-sort#:~:text=the%20counts%20array%3A-,counts%20array,-%3A%20%5B0%2C%202%2C%202"><img src = "https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height=70 style="margin: 1.25%"></a>
 <a href="https://www.techiedelight.com/deletion-from-bst/"><img src = "https://www.techiedelight.com/wp-content/uploads/profile_pic.png" height=70 style="margin: 1.25%"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element#table_content"><img src = "https://interactive-examples.mdn.mozilla.net/media/examples/dino.svg" height=70 style="margin: 1.25%"></a>
+<a href="https://leetcode.com/"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=70 style="margin: 1.25%"></a>
 
 
 ---
@@ -231,6 +232,17 @@ February 19, 2022
 <ul>
     <li>Solved a problem on LeetCode</li>
     <li>Solved the best solution on own</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+    <li>Worked upon semester project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
+</ul>
+</details>
+
+<details>
+<summary> Day 20 </summary>
+February 20, 2022
+<ul>
+    <li>Solved 2 problems on LeetCode</li>
+    <li>Understood the best solutions</li>
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
     <li>Worked upon semester project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
 </ul>
