@@ -247,3 +247,13 @@ February 20, 2022
     <li>Worked upon semester project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 21 </summary>
+February 21, 2022
+<ul>
+    <li>Solved on LeetCode</li>
+    <li>Understood the best solution</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
