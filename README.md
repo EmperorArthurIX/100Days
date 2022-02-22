@@ -257,3 +257,13 @@ February 21, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 22 </summary>
+February 22, 2022
+<ul>
+    <li>Solved multiple questions on LeetCode</li>
+    <li>Understood the best solutions</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
