@@ -267,3 +267,13 @@ February 22, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 23 </summary>
+February 23, 2022
+<ul>
+    <li>Learnt a list flattening solution on LeetCode</li>
+    <li>Understood the iterative and recursive solution</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
