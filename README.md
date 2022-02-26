@@ -287,3 +287,21 @@ February 24, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 25 </summary>
+February 25, 2022
+<ul>
+    <li>Read about recursion techniques online</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 26 </summary>
+February 26, 2022
+<ul>
+    <li>Solved 2 Queue questions on LeetCode</li>
+    <li>Understood the best solutions</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
