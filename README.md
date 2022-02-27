@@ -305,3 +305,11 @@ February 26, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 27 </summary>
+February 27, 2022
+<ul>
+    <li>Published an article on my blog <a href="https://medium.com/@emperorarthurix">here</a></li>
+</ul>
+</details>
