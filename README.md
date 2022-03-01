@@ -313,3 +313,20 @@ February 27, 2022
     <li>Published an article on my blog <a href="https://medium.com/@emperorarthurix">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 28 </summary>
+February 28, 2022
+<ul>
+    <li>Tried to solve a BFS question on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 29 </summary>
+March 1, 2022
+<ul>
+    <li>Solved the BFS question on LeetCode, with a little help</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
