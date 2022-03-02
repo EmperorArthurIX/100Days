@@ -330,3 +330,12 @@ March 1, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 30 </summary>
+March 2, 2022
+<ul>
+    <li>Solved another BFS question on LeetCode, with a little help</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
