@@ -339,3 +339,13 @@ March 2, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 31 </summary>
+March 3, 2022
+<ul>
+    <li>School task: make a landing page</li>
+    <li>Did it and deployed <a href="https://github.com/EmperorArthurIX/Game-Landing-Page">here</a></li>
+    <li>Worked upon semester project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
+</ul>
+</details>
