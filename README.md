@@ -349,3 +349,12 @@ March 3, 2022
     <li>Worked upon semester project <a href="https://github.com/EmperorArthurIX/KIK-Site">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 32 </summary>
+March 4, 2022
+<ul>
+    <li>Solved a few Stack questions on LeetCode</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
