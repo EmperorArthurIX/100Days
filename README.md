@@ -358,3 +358,11 @@ March 4, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 33 </summary>
+March 5, 2022
+<ul>
+    <li>Submitted my Research Paper on Partial Automation of Data Selection, Data Visualisation and Machine Learning Model Building with Python</li>
+</ul>
+</details>
