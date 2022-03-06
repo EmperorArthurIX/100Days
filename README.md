@@ -366,3 +366,11 @@ March 5, 2022
     <li>Submitted my Research Paper on Partial Automation of Data Selection, Data Visualisation and Machine Learning Model Building with Python</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 34 </summary>
+March 6, 2022
+<ul>
+    <li>Published my blog for the day on Medium</li>
+</ul>
+</details>
