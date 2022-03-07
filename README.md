@@ -374,3 +374,12 @@ March 6, 2022
     <li>Published my blog for the day on Medium</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 35 </summary>
+March 7, 2022
+<ul>
+    <li>Gave mid-semester examinations for Web Programming and Python Programming</li>
+    <li>Solved questions based on the Theory of Automata and Computation</li>
+</ul>
+</details>
