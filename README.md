@@ -383,3 +383,13 @@ March 7, 2022
     <li>Solved questions based on the Theory of Automata and Computation</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 36 </summary>
+March 8, 2022
+<ul>
+    <li>Gave mid-semester examinations for Operating Systems and Theory of Automata and Computation</li>
+    <li>Solved a few Stack questions on LeetCode</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
