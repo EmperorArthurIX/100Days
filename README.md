@@ -393,3 +393,13 @@ March 8, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 37 </summary>
+March 9, 2022
+<ul>
+    <li>Gave mid-semester examination for Discrete Math</li>
+    <li>Studied a Stack question on LeetCode</li>
+    <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
+</ul>
+</details>
