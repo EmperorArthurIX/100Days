@@ -403,3 +403,12 @@ March 9, 2022
     <li>Recorded progress <a href="https://github.com/EmperorArthurIX/LeetCodeProblems">here</a></li>
 </ul>
 </details>
+
+<details>
+<summary> Day 38 </summary>
+March 10, 2022
+<ul>
+    <li>Tried solving a stack problem online, but could not find it</li>
+    <li>It appears to be a permutations-based question, will try again later</li>
+</ul>
+</details>
