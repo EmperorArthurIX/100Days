@@ -412,3 +412,11 @@ March 10, 2022
     <li>It appears to be a permutations-based question, will try again later</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 39 </summary>
+March 11, 2022
+<ul>
+    <li>Started working in my personal portfolio and website!</li>
+</ul>
+</details>
