@@ -420,3 +420,11 @@ March 11, 2022
     <li>Started working in my personal portfolio and website!</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 40</summary>
+March 12, 2022
+<ul>
+    <li>Conducted a software efficiency workshop for teaching faculty members at EuroSchool</li>
+</ul>
+</details>
