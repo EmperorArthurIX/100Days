@@ -429,4 +429,26 @@ March 12, 2022
 </ul>
 </details>
 
+<details>
+<summary> Day 41</summary>
+March 13, 2022
+<ul>
+    <li>Revised a few concepts of HTML and CSS but did not write code</li>
+</ul>
+</details>
 
+<details>
+<summary> Day 42</summary>
+March 14, 2022
+<ul>
+    <li>Worked on my personal portfolio website</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 43</summary>
+March 15, 2022
+<ul>
+    <li>Worked more on my personal portfolio website</li>
+</ul>
+</details>
