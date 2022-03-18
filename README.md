@@ -422,7 +422,7 @@ March 11, 2022
 </details>
 
 <details>
-<summary> Day 40</summary>
+<summary> Day 40 </summary>
 March 12, 2022
 <ul>
     <li>Conducted a software efficiency workshop for teaching faculty members at EuroSchool</li>
@@ -430,7 +430,7 @@ March 12, 2022
 </details>
 
 <details>
-<summary> Day 41</summary>
+<summary> Day 41 </summary>
 March 13, 2022
 <ul>
     <li>Revised a few concepts of HTML and CSS but did not write code</li>
@@ -438,7 +438,7 @@ March 13, 2022
 </details>
 
 <details>
-<summary> Day 42</summary>
+<summary> Day 42 </summary>
 March 14, 2022
 <ul>
     <li>Worked on my personal portfolio website</li>
@@ -446,9 +446,32 @@ March 14, 2022
 </details>
 
 <details>
-<summary> Day 43</summary>
+<summary> Day 43 </summary>
 March 15, 2022
 <ul>
     <li>Worked more on my personal portfolio website</li>
 </ul>
+</details>
+
+<details>
+<summary> Day 44 </summary>
+March 16, 2022
+<ul>
+    <li>Tried but failed to solve a problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 45 </summary>
+March 17, 2022
+<ul>
+    <li>Tried but failed to solve the same problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 46 </summary>
+March 18, 2022
+<ul>
+    <li>Found the solution online and studied it. Dynamic Programming</Li>
 </details>
