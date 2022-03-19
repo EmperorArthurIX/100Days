@@ -474,4 +474,13 @@ March 17, 2022
 March 18, 2022
 <ul>
     <li>Found the solution online and studied it. Dynamic Programming</Li>
+</Ul>
+</details>
+
+<details>
+<summary> Day 47 </summary>
+March 19, 2022
+<ul>
+    <li>Worked upon an article for my blog</li>
+</ul>
 </details>
