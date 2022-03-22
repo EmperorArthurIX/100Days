@@ -484,3 +484,27 @@ March 19, 2022
     <li>Worked upon an article for my blog</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 48 </summary>
+March 20, 2022
+<ul>
+    <li>Tried to re-solve a problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 49 </summary>
+March 21, 2022
+<ul>
+    <li>Shifted to my hostel room, could not find time to code</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 50 </summary>
+March 22, 2022
+<ul>
+    <li>Re-solved a LeetCode problem</li>
+</ul>
+</details>
