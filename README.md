@@ -534,3 +534,12 @@ March 25, 2022
     <li>Studied improved and better solutions for these problems</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 53 </summary>
+March 26, 2022
+<ul>
+    <li>Resumed Google Data Analytics course</li>
+    <li>Studied 1 unit and gave the test series for the same</li>
+</ul>
+</details>
