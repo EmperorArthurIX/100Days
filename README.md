@@ -543,3 +543,12 @@ March 26, 2022
     <li>Studied 1 unit and gave the test series for the same</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 54 </summary>
+March 27, 2022
+<ul>
+    <li>Published my blog on Medium <a href = "https://www.medium.com/@emperorarthurix">here</a></li>
+    <li>Studied one unit and gave the test for the same</li>
+</ul>
+</details>
