@@ -561,3 +561,10 @@ March 28, 2022
 </ul>
 </details>
 
+<details>
+<summary> Day 56 </summary>
+March 29, 2022
+<ul>
+    <li>Studied online a solution to a LeetCode problem on Stacks</li>
+</ul>
+</details>
