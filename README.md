@@ -568,3 +568,11 @@ March 29, 2022
     <li>Studied online a solution to a LeetCode problem on Stacks</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 57 </summary>
+March 30, 2022
+<ul>
+    <li>Solved a Flood Fill problem on LeetCode</li>
+</ul>
+</details>
