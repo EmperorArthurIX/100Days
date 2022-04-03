@@ -577,3 +577,34 @@ March 30, 2022
 </ul>
 </details>
 
+<details>
+<summary> Day 58 </summary>
+March 31, 2022
+<ul>
+    <li>Worked upon a Dynamic Programming problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 59 </summary>
+April 1, 2022
+<ul>
+    <li>Worked upon the same Dynamic Programming problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 59 </summary>
+April 2, 2022
+<ul>
+    <li>Debugging the Dynamic Programming problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 60 </summary>
+April 3, 2022
+<ul>
+    <li>Debugging the Dynamic Programming problem on LeetCode</li>
+</ul>
+</details>
