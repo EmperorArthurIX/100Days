@@ -608,3 +608,11 @@ April 3, 2022
     <li>Debugging the Dynamic Programming problem on LeetCode</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 61 </summary>
+April 4, 2022
+<ul>
+    <li>Studied a unit of SQL and Spreadsheet data processing as part of the Google Data Analytics course</li>
+</ul>
+</details>
