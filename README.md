@@ -616,3 +616,12 @@ April 4, 2022
     <li>Studied a unit of SQL and Spreadsheet data processing as part of the Google Data Analytics course</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 62 </summary>
+April 5, 2022
+<ul>
+    <li>Studied about Machine Learning model types and made notes</li>
+    <li>Studied the solution of the Dynamic Programming question on LeetCode</li>
+</ul>
+</details>
