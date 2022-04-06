@@ -625,3 +625,11 @@ April 5, 2022
     <li>Studied the solution of the Dynamic Programming question on LeetCode</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 63 </summary>
+April 6, 2022
+<ul>
+    <li>Studied the solution of zero-sum subarray problem online</li>
+</ul>
+</details>
