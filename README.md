@@ -633,3 +633,35 @@ April 6, 2022
     <li>Studied the solution of zero-sum subarray problem online</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 64 </summary>
+April 7, 2022
+<ul>
+    <li>Solved and studied 2 BFS problems on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 65 </summary>
+April 8, 2022
+<ul>
+    <li>Solved and studied 3 Binary Search problems on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 66 </summary>
+April 9, 2022
+<ul>
+    <li>Solved and studied the solutions of a Binary Search problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 67 </summary>
+April 10, 2022
+<ul>
+    <li>Solved and studied the solutions of 2 Binary Search problems on LeetCode</li>
+</ul>
+</details>
