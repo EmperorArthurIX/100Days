@@ -665,3 +665,75 @@ April 10, 2022
     <li>Solved and studied the solutions of 2 Binary Search problems on LeetCode</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 68 </summary>
+April 11, 2022
+<ul>
+    <li>Tried solving Binary Search problems on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 69 </summary>
+April 12, 2022
+<ul>
+    <li>Studied solution of a problem online</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 70 </summary>
+April 13, 2022
+<ul>
+    <li>Worked upon web programming project in class</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 71 </summary>
+April 14, 2022
+<ul>
+    <li>Wrote code for DDA Algorithm using C</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 72 </summary>
+April 15, 2022
+<ul>
+    <li>Continued online course on Google Data Analytics</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 73 </summary>
+April 16, 2022
+<ul>
+    <li>Studied solution to a problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 74 </summary>
+April 17, 2022
+<ul>
+    <li>Studied solution to a problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 75 </summary>
+April 18, 2022
+<ul>
+    <li>Solved and studied a Binary Search problem on LeetCode</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 76 </summary>
+April 19, 2022
+<ul>
+    <li>Solved and studied a Binary Search problem on LeetCode</li>
+</ul>
+</details>
