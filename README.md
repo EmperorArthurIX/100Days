@@ -737,3 +737,10 @@ April 19, 2022
     <li>Solved and studied a Binary Search problem on LeetCode</li>
 </ul>
 </details>
+
+<summary> Day 77 </summary>
+April 20, 2022
+<ul>
+    <li>Solved 2 Binary Search problems on LeetCode</li>
+</ul>
+</details>
