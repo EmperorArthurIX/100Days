@@ -744,3 +744,11 @@ April 20, 2022
     <li>Solved 2 Binary Search problems on LeetCode</li>
 </ul>
 </details>
+
+<summary> Day 78 </summary>
+April 21, 2022
+<ul>
+    <li>Worked upon website for hackathon we are organising</li>
+    <li>Worked upon my portfolio website</li>
+</ul>
+</details>
