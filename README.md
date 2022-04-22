@@ -738,6 +738,7 @@ April 19, 2022
 </ul>
 </details>
 
+<details>
 <summary> Day 77 </summary>
 April 20, 2022
 <ul>
@@ -745,6 +746,7 @@ April 20, 2022
 </ul>
 </details>
 
+<details>
 <summary> Day 78 </summary>
 April 21, 2022
 <ul>
