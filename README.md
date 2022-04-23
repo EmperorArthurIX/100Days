@@ -754,3 +754,18 @@ April 21, 2022
     <li>Worked upon my portfolio website</li>
 </ul>
 </details>
+
+<summary> Day 79 </summary>
+April 22, 2022
+<ul>
+    <li>Worked upon website for hackathon we are organising</li>
+</ul>
+</details>
+
+
+<summary> Day 80 </summary>
+April 23, 2022
+<ul>
+    <li>Worked upon my portfolio website</li>
+</ul>
+</details>
