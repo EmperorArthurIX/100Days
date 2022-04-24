@@ -762,9 +762,17 @@ April 22, 2022
 </ul>
 </details>
 
-
+<details>
 <summary> Day 80 </summary>
 April 23, 2022
+<ul>
+    <li>Worked upon my portfolio website</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 81 </summary>
+April 24, 2022
 <ul>
     <li>Worked upon my portfolio website</li>
 </ul>
