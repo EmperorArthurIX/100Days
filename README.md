@@ -777,3 +777,12 @@ April 24, 2022
     <li>Worked upon my portfolio website</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 82 </summary>
+April 25, 2022
+<ul>
+    <li>Deployed my semester web development project on cricket scores on GitHub Pages</li>
+    <li>Worked upon my portfolio website</li>
+</ul>
+</details>
