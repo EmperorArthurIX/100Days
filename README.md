@@ -786,3 +786,12 @@ April 25, 2022
     <li>Worked upon my portfolio website</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 83 </summary>
+April 26, 2022
+<ul>
+    <li>Worked upon my portfolio website</li>
+    <li>Resumed progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
