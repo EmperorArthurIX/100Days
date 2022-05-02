@@ -837,3 +837,13 @@ May 1, 2022
     <li>Made progress on Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 89 </summary>
+May 2, 2022
+<ul>
+    <li>Worked upon my Portfolio Website</li>
+    <li>Solved a LeetCode Problem</li>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
