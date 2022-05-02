@@ -795,3 +795,45 @@ April 26, 2022
     <li>Resumed progress on Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 84 </summary>
+April 27, 2022
+<ul>
+    <li>Worked upon my portfolio website</li>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 85 </summary>
+April 28, 2022
+<ul>
+    <li>Worked upon my semester project on web development</li>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 86 </summary>
+April 29, 2022
+<ul>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 87 </summary>
+April 30, 2022
+<ul>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 88 </summary>
+May 1, 2022
+<ul>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
