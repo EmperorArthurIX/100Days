@@ -847,3 +847,12 @@ May 2, 2022
     <li>Made progress on Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 90 </summary>
+May 3, 2022
+<ul>
+    <li>Worked upon planning University Website</li>
+    <li>Made progress on Google Data Analytics Professional Certificate</li>
+</ul>
+</details>
