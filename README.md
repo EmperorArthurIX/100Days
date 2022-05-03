@@ -755,6 +755,7 @@ April 21, 2022
 </ul>
 </details>
 
+<details>
 <summary> Day 79 </summary>
 April 22, 2022
 <ul>
