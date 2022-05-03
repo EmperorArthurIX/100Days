@@ -857,3 +857,11 @@ May 3, 2022
     <li>Made progress on Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 91 </summary>
+May 4, 2022
+<ul>
+    <li>Pushed initial structure of University Website onto GitHub</li>
+</ul>
+</details>
