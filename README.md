@@ -865,3 +865,29 @@ May 4, 2022
     <li>Pushed initial structure of University Website onto GitHub</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 92 </summary>
+May 5, 2022
+<ul>
+    <li>Practiced and developed a small prototype website for upcoming hackathon</li>
+    <li>Prepared to organise said hackathon and handled participant list on spreadsheets</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 93 </summary>
+May 6, 2022
+<ul>
+    <li>Worked on website in 24 Hour Hackathon organised by my team and I</li>
+    <li>Continued development for 18 hours</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 94 </summary>
+May 7, 2022
+<ul>
+    <li>Completed the last few elements of website and submitted the same for evaluation</li>
+</ul>
+</details>
