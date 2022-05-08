@@ -891,3 +891,11 @@ May 7, 2022
     <li>Completed the last few elements of website and submitted the same for evaluation</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 95 </summary>
+May 8, 2022
+<ul>
+    <li>Learnt the Banker's Algorithm used in Operating Systems</li>
+</ul>
+</details>
