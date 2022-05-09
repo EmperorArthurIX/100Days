@@ -899,3 +899,17 @@ May 8, 2022
     <li>Learnt the Banker's Algorithm used in Operating Systems</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 96 </summary>
+May 9, 2022
+<ul>
+    Practiced the following in Bash Scripting:
+    <li>Looping Control Structures</li>
+    <li>Conditional Control Structures</li>
+    <li>Functions</li>
+    <li>Recursive Functions</li>
+    <li>Ran into a recursion bug in `factorial` function which returns factorial modulo 256</li>
+    <li>Switch Case statements</li>
+</ul>
+</details>
