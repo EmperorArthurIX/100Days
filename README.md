@@ -911,5 +911,6 @@ May 9, 2022
     <li>Recursive Functions</li>
     <li>Ran into a recursion bug in `factorial` function which returns factorial modulo 256</li>
     <li>Switch Case statements</li>
+    <li>Made progress in Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
