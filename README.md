@@ -923,5 +923,6 @@ May 10, 2022
     <li>Streamlit API</li>
     <li>Took up the 30 Days of Streamlit Challenge</li>
     <li>Asked a friend who never worked with Streamlit before to review my code for readability</li>
+    <li>Made progress in Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
