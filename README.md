@@ -914,3 +914,14 @@ May 9, 2022
     <li>Made progress in Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 97 </summary>
+May 10, 2022
+<ul>
+    Practiced the following in Python:
+    <li>Streamlit API</li>
+    <li>Took up the 30 Days of Streamlit Challenge</li>
+    <li>Asked a friend who never worked with Streamlit before to review my code for readability</li>
+</ul>
+</details>
