@@ -926,3 +926,15 @@ May 10, 2022
     <li>Made progress in Google Data Analytics Professional Certificate</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 98 </summary>
+May 11, 2022
+<ul>
+    Practiced the following in Python:
+    <li>Automating function calls</li>
+    <li>Automating content updates using file handling</li>
+    <li>Discovered a new method of calling functions using string values, through a dictionary</li>
+    <li>Made progress in 30 Days of Streamlit Challenge</li>
+</ul>
+</details>
