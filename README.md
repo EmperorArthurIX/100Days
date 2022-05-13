@@ -938,3 +938,28 @@ May 11, 2022
     <li>Made progress in 30 Days of Streamlit Challenge</li>
 </ul>
 </details>
+
+<details>
+<summary> Day 99 </summary>
+May 12, 2022
+<ul>
+    Practiced the following in Python:
+    <li>Streamlit API functions</li>
+    <li>Debugged the Streamlit App</li>
+    <li>Made progress in 30 Days of Streamlit Challenge</li>
+</ul>
+</details>
+
+<details>
+<summary> Day 100 </summary>
+May 13, 2022
+<ul>
+    Practiced the following in Python:
+    <li>Streamlit API</li>
+    <li>Deployed the application on Streamlit Cloud</li>
+    <li>Split the GitHub repository into development and deployment branches</li>
+    <li>Used the CLI to push changes onto development branch and keep deployment branch stable</li>
+    <li>Set up a Pull Request Template on main branch</li>
+    <li>Made progress in 30 Days of Streamlit Challenge</li>
+</ul>
+</details>
